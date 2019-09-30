@@ -46,3 +46,22 @@ IPSec VPN
 Private Virtual Interface 
 IPTables
 RFC-1918
+
+## Service Considerations
+* Plan
+* Provision
+* Install
+* Configure
+* Deploy
+* Security
+* Automation
+* Monitoring
+* Shut down / End of Life
+* Billing
+* Logging
+* Backup / Restore
+* High Availability
+* Performance
+* Documentation
+* Testing
+
