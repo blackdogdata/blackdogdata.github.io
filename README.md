@@ -18,6 +18,7 @@
     * (Chef, Puppet, SaltStack)
 * Python
   * (Ruby)
+  * Black Code Formatter
 * CI/CD
   * Jenkins
 * Linux
@@ -25,6 +26,8 @@
   * Docker
   * kubernetes
 * Git
+  * Hooks on Windows
+* BitBucket
 * Networking
   * NAT
     * NAT Traversal NAT-T
@@ -55,6 +58,12 @@ IPSec VPN
 Private Virtual Interface 
 IPTables
 RFC-1918
+
+* Agile
+  * Scrum
+  * Kanban
+  * Writing Requirements
+  * Definition of Done
 
 ## Service Considerations
 [Infra as Code Checklist](https://www.youtube.com/watch?v=jiWRTuF4yXk)
