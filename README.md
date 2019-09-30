@@ -7,6 +7,7 @@
   * VPG - Virtual Private Gateway
   * BGP - Border Gateway Prototcol
   * Serverless
+  * Organizations
 * IaC
   * Terraform
   * Ansible 
@@ -21,27 +22,26 @@
   * kubernetes
 * Git
 * Networking
- * IP/TCP
- * Firewall
- * HTTP
- * SSH
-  * Putty  
+  * IP/TCP
+    * ARP - Address Resolution Protocol
+  * Firewall
+  * HTTP
+  * SSH
+    * Putty  
 * Active Directory
- * SSO
- * SAML
+  * SSO
+  * SAML
 * SQL
 * Server Apps
- * NGINX
- * Tomcat
- * Apache
- * Reverse Proxy
+  * NGINX
+  * Tomcat
+  * Apache
+  * Reverse Proxy
 * VMWare
 * DevOps
-Security Tooling
+* Security Tooling
 
 Load Balancer
-AWS Organizations
-ARP - Address Resolution Protocol
 IPSec VPN
 Private Virtual Interface 
 IPTables
