@@ -1,3 +1,4 @@
+[RoadMap starting Point](https://roadmap.sh/devops)
 * AWS
   * AWS RAM Console - Resource Access Management
   * VPC Peering - doesn't support overlapping CIDR.
@@ -14,14 +15,31 @@
   * PrivateLink
 * IaC
   * Terraform
-  * Ansible 
+  * Configuration Management
+    * Ansible 
     * (Chef, Puppet, SaltStack)
 * Python
   * (Ruby)
   * Black Code Formatter
 * CI/CD
   * Jenkins
+* Operating System Theory
+  * IO
+  * Virtualisation
+  * Processes, Threads
+  * Sockets
+  * Filesystem
+  * Memory
 * Linux
+  * Tools
+    * awk
+    * sed
+    * grep
+    * sort
+    * cat
+    * ps
+    * top
+    * htop
 * Containers
   * Docker
   * kubernetes
@@ -38,6 +56,9 @@
     * BGP - Border Gateway Protocol
   * Firewall
   * HTTP
+  * DNS
+  * FTP
+  * SSL/TLS
   * SSH
     * Putty  
 * Active Directory
@@ -45,15 +66,22 @@
   * SAML
 * SQL
 * Server Apps
-  * NGINX
-  * Tomcat
-  * Apache
+  * Web Server
+    * NGINX
+    * Tomcat
+    * Apache
+    * IIS
+    * Caddy
   * Reverse Proxy
+  * Caching Server
+  * Load Balancer
+  * Forward Proxy
+  * Firewall
 * VMWare
 * DevOps
 * Security Tooling
 
-Load Balancer
+
 IPSec VPN
 Private Virtual Interface 
 IPTables
