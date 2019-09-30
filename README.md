@@ -8,6 +8,7 @@
   * BGP - Border Gateway Prototcol
   * Serverless
   * Organizations
+  * Naming Convention
 * IaC
   * Terraform
   * Ansible 
@@ -48,6 +49,7 @@ IPTables
 RFC-1918
 
 ## Service Considerations
+[Infra as Code Checklist](https://www.youtube.com/watch?v=jiWRTuF4yXk)
 * Plan
 * Provision
 * Install
