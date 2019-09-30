@@ -1,6 +1,7 @@
 * AWS
   * AWS RAM Console - Resource Access Management
-  * VPC Peering doesn't support overlapping CIDR.
+  * VPC Peering - doesn't support overlapping CIDR.
+  * VPC Sharing
   * Transit Gateway - Layer 3
   * AWS Control Tower, LandingZone
   * SCP - Service Control Policies
@@ -9,6 +10,8 @@
   * Serverless
   * Organizations
   * Naming Convention
+  * VPC EndPoints
+  * PrivateLink
 * IaC
   * Terraform
   * Ansible 
@@ -23,8 +26,13 @@
   * kubernetes
 * Git
 * Networking
+  * NAT
+    * NAT Traversal NAT-T
+    * Source NAT - SNAT
+    * Destination NAT - DNAT
   * IP/TCP
     * ARP - Address Resolution Protocol
+    * BGP - Border Gateway Protocol
   * Firewall
   * HTTP
   * SSH
@@ -66,4 +74,5 @@ RFC-1918
 * Performance
 * Documentation
 * Testing
+
 
