@@ -1,16 +1,16 @@
 * AWS
- * AWS RAM Console - Resource Access Management
- * VPC Peering doesn't support overlapping CIDR.
- * Transit Gateway - Layer 3
- * AWS Control Tower, LandingZone
- * SCP - Service Control Policies
- * VPG - Virtual Private Gateway
- * BGP - Border Gateway Prototcol
- * Serverless
+  * AWS RAM Console - Resource Access Management
+  * VPC Peering doesn't support overlapping CIDR.
+  * Transit Gateway - Layer 3
+  * AWS Control Tower, LandingZone
+  * SCP - Service Control Policies
+  * VPG - Virtual Private Gateway
+  * BGP - Border Gateway Prototcol
+  * Serverless
 * IaC
- * Terraform
- * Ansible 
-   * (Chef, Puppet, SaltStack)
+  * Terraform
+  * Ansible 
+    * (Chef, Puppet, SaltStack)
 * Python
   * (Ruby)
 * CI/CD
