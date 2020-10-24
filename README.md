@@ -3,27 +3,52 @@
   * AWS RAM Console - Resource Access Management
   * VPC Peering - doesn't support overlapping CIDR.
   * VPC Sharing
-  * Transit Gateway - Layer 3
   * AWS Control Tower, LandingZone
   * SCP - Service Control Policies
-  * VPG - Virtual Private Gateway
-  * BGP - Border Gateway Prototcol
+  * VPC
+	* VPG - Virtual Private Gateway
+	* BGP - Border Gateway Prototcol 
+		* ASN
+	* RouteTable - destination based
+	* ENI
+	* Subnets
+	* Peering connections
+	* DirectConnect
+	* TransitGateway - Layer 3
+	* ALB (layer 7)
+	* NLB (layer 4)
+	* Internet Gateway
   * Serverless
   * Organizations
   * Naming Convention
   * VPC EndPoints
   * PrivateLink
-  * IAM
+  * IAM - Identity and Access Management
+	* Global Service
+	* Policy Simulator
+	* Authenitcation - Who are you? and Authorisation - What can you do?
+	* ARN - Amazon Resource Number
+	* Access Key ID =approx  - username
+	* Secret Access Key =approx - password
+	* Policy 
+		- Effect - Allow / Deny
+		- Action
+		- Resource
+		- Condition
   * EC2
 	* EBS, SSM, Auto Scaling Group
   * Lambda
   * S3
   * KMS
+  * Cloudwatch
+	* Logs
+	* Monitoring
+	* Alarms
+	* Metrics
   * CloudTrail
   * Route53
   * CloudFormation
   * Kinesis
-  * DirectConnect
   * SNS
   * RDS
   * DynamoDB
