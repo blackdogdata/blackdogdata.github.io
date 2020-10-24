@@ -66,7 +66,10 @@
   * Route53
 	* Hosted Zones
   * CloudFormation
-  * Kinesis
+  * Data Tooling
+	* Kinesis	
+	* AWS Glue
+	* Redshift
   * SNS
   * RDS
   * DynamoDB
@@ -76,6 +79,7 @@
   * Security Hub
 	* Guard Duty
 	* CVE - Common Vulnerabilities and Exposures
+  
 * IaC
   * Hashicorp
 	* Terraform
@@ -122,9 +126,9 @@
   * kubernetes
 * Git
   * Hooks on Windows
-* BitBucket
-* GitHub
-* GitLab
+  * BitBucket
+  * GitHub
+  * GitLab
 * Networking
   * NAT
     * NAT Traversal NAT-T
@@ -160,8 +164,16 @@
 * VMWare
 * DevOps
 * Security Tooling
-
-
+* Migrations
+* Testing
+	* Test Driven Development
+	* Automated testing
+* Job Roles
+	- Dev Ops
+	- Site Reliability Engineer
+	- Cloud Engineer
+	- Platform Engineer
+	- Cloud Architect
 IPSec VPN
 Private Virtual Interface 
 IPTables
