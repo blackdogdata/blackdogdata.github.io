@@ -13,17 +13,45 @@
   * Naming Convention
   * VPC EndPoints
   * PrivateLink
+  * IAM
+  * EC2
+	* EBS, SSM, Auto Scaling Group
+  * Lambda
+  * S3
+  * KMS
+  * CloudTrail
+  * Route53
+  * CloudFormation
+  * Kinesis
+  * DirectConnect
+  * SNS
+  * RDS
+  * DynamoDB
+  * SQS
+  * ELB
+  * WAF & Shield
+  * Security Hub
 * IaC
-  * Terraform
+  * Hashicorp
+	* Terraform
+	* Packer
+	* Vault
+	* Consul
   * Configuration Management
     * Ansible 
-    * (Chef, Puppet, SaltStack)
-* Python
-  * (Ruby)
-  * Black Code Formatter
+    * Chef
+	* Puppet
+	* SaltStack
+*Scripting
+	* Python
+		* Black Code Formatter
+	* Ruby  
+	* Go
+	* Bash
 * CI/CD
   * Jenkins
-  * Hudson Bamboo
+  * Hudson 
+  * Bamboo
 * Operating System Theory
   * IO
   * Virtualisation
@@ -32,6 +60,9 @@
   * Filesystem
   * Memory
 * Linux
+  * Distros 
+	* CentOS
+	* Linux AMI
   * Tools
     * awk
     * sed
@@ -47,6 +78,8 @@
 * Git
   * Hooks on Windows
 * BitBucket
+* GitHub
+* GitLab
 * Networking
   * NAT
     * NAT Traversal NAT-T
@@ -58,6 +91,7 @@
   * Firewall
   * HTTP
   * DNS
+  * DHCP
   * FTP
   * SSL/TLS
   * SSH
@@ -104,6 +138,8 @@ RFC-1918
 * Security
 * Automation
 * Monitoring
+	Nagios
+	Grafana
 * Shut down / End of Life
 * Billing
 * Logging
