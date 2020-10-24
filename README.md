@@ -23,6 +23,7 @@
   * Black Code Formatter
 * CI/CD
   * Jenkins
+  * Hudson Bamboo
 * Operating System Theory
   * IO
   * Virtualisation
