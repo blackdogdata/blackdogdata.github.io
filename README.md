@@ -1,10 +1,8 @@
 [RoadMap starting Point](https://roadmap.sh/devops)
 * AWS
   * AWS RAM Console - Resource Access Management
-  * VPC Peering - doesn't support overlapping CIDR.
-  * VPC Sharing
   * AWS Control Tower, LandingZone
-  * SCP - Service Control Policies
+  * API Gateway
   * VPC
 	* VPG - Virtual Private Gateway
 	* BGP - Border Gateway Prototcol 
@@ -12,18 +10,31 @@
 	* RouteTable - destination based
 	* ENI
 	* Subnets
+		* 5 Addresses allocated for AWS
+			- 0 Network Address
+			- 1 VPC router
+			- 2 DNS
+			- 3 Reserved / spare
+			- x Broadcast - last address 
 	* Peering connections
 	* DirectConnect
 	* TransitGateway - Layer 3
 	* ALB (layer 7)
 	* NLB (layer 4)
 	* Internet Gateway
+	* VPC EndPoints
+	* VPC Peering - doesn't support overlapping CIDR.
+	* VPC Sharing
+	* PrivateLink
   * Serverless
   * Organizations
-  * Naming Convention
-  * VPC EndPoints
-  * PrivateLink
+	* SCP - Service Control Policies
+	* Naming Convention
+  * STS - Security Token Service
   * IAM - Identity and Access Management
+	* User in Groups 
+	* Roles
+	* Policies
 	* Global Service
 	* Policy Simulator
 	* Authenitcation - Who are you? and Authorisation - What can you do?
@@ -35,10 +46,16 @@
 		- Action
 		- Resource
 		- Condition
+	* Trust and Permission Policy
+	* Service Roles
   * EC2
-	* EBS, SSM, Auto Scaling Group
+	* EBS - Elastic Block Store
+	* SSM
+	* Auto Scaling Group
+  * EFS - Elastic File Store
   * Lambda
   * S3
+	* Object store
   * KMS
   * Cloudwatch
 	* Logs
@@ -47,6 +64,7 @@
 	* Metrics
   * CloudTrail
   * Route53
+	* Hosted Zones
   * CloudFormation
   * Kinesis
   * SNS
@@ -56,6 +74,8 @@
   * ELB
   * WAF & Shield
   * Security Hub
+	* Guard Duty
+	* CVE - Common Vulnerabilities and Exposures
 * IaC
   * Hashicorp
 	* Terraform
